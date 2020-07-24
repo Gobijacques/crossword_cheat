@@ -4,7 +4,8 @@ My take on making a simple python3 function that you can use to cheat at games s
 Usage: search(clue)
 Your clue should looke like this: c$a$$ ('$' represents unknown letters and other letters are the ones you know)
 Example: 
->>> search('$ictionn$$$$')
+
+>>>search('$ictionn$$$$')
 1 results. Proceed? (y)
 y
 dictionnaire
